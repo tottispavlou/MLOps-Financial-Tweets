@@ -1,0 +1,1 @@
+from dtu_mlops_project.predict_model import predict
